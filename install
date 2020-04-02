@@ -1,0 +1,3 @@
+#!/bin/bash
+
+npm install --save @google-cloud/compute@0.7.1

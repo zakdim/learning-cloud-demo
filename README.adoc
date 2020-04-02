@@ -1,0 +1,15 @@
+== Google Cloud Platform in Action
+
+=== Section 1.6.3 - In your own code: google-cloud-* 
+
+1. Install the Google Cloud client library for Node.js
+
+```
+$ npm install --save @google-cloud/compute@0.7.1
+```
+2. Run script:
+
+```
+$ node script.js
+```
+
